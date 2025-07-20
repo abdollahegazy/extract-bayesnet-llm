@@ -18,7 +18,6 @@ class BnRepConverter:
     """
     Converter class to transform Bayesian networks from R's bnlearn format to Python's pgmpy compatible format
     """
-    
     def __init__(self):
         self.bnlearn = importr('bnlearn')
         self.utils = importr('utils')

@@ -354,8 +354,8 @@ def main():
     
     # Initialize filter
     filter_tool = BayesianNetworkFilter(
-        input_dir='./zero_ichi',
-        output_dir='./temp'
+        input_dir='./automatic_converts',
+        output_dir='./filtered_networks'
     )
     
     # Run filtering
