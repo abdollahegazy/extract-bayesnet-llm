@@ -51,3 +51,4 @@ if __name__ == "__main__":
         kls.append(s)
 
     plt.hist(kls)
+    plt.savefig("temp")
