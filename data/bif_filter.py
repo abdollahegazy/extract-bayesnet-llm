@@ -17,6 +17,7 @@ import numpy as np
 from pgmpy.readwrite import BIFReader
 import pandas as pd
 from collections import defaultdict
+from itertools import product
 
 class BayesianNetworkFilter:
     """Filter Bayesian networks based on specified criteria."""
@@ -114,46 +115,74 @@ class BayesianNetworkFilter:
         """
         return len(model.nodes()) <= 50
     
-    def has_complete_cpts(self, model):
-        """
-        Check if all CPTs have complete probability information.
-        """
-        try:
-            cpds = model.get_cpds()
-            if not cpds:
+    # def has_complete_cpts(self, model):
+    #     """
+    #     Check if all CPTs have complete probability information.
+    #     """
+    #     try:
+    #         # cpds = model.get_cpds()
+    #         # if not cpds:
+    #         #     return False
+
+    #         # for cpd in cpds:
+    #         #     # raw values (might be flat)
+    #         #     flat = np.array(cpd.get_values(), dtype=float)
+    #         #     # how many states does the child have?
+    #         #     r = cpd.variable_card
+    #         #     # how many parent‐configs?
+    #         #     n = flat.size // r
+
+    #         #     if flat.size != r * n:
+    #         #         return False  # something’s really weird
+
+    #         #     # reshape into (r states × n configs)
+    #         #     table = flat.reshape((r, n), order='F')
+
+    #         #     # check for any NaNs or negatives
+    #         #     if np.any(np.isnan(table)) or np.any(table < 0):
+    #         #         return False
+
+    #         #     # for each config, states must sum to 1
+    #         #     tol = 1e-8
+    #         #     col_sums = table.sum(axis=0)  # sum over states
+    #         #     if not np.allclose(col_sums, 1.0, atol=tol, rtol=tol):
+    #         #         bad = np.where(~np.isclose(col_sums, 1.0, atol=tol, rtol=tol))[0]
+    #         #         print(f"    Warning: CPD {cpd.variable} config(s) {bad.tolist()} sum to {col_sums[bad]}")
+    #         #         return False
+
+    #         # finally, let pgmpy sanity‑check the whole model
+    #         return model.check_model()
+    #     except Exception:
+    #         return False
+    def has_complete_cpts(self,model, atol=1e-8, require_finite=True):
+        # Basic structural/normalization checks
+        if not model.check_model():
+            return False
+
+        for cpd in model.get_cpds():
+            vals = np.asarray(cpd.values)
+
+            if require_finite and not np.isfinite(vals).all():
                 return False
 
-            for cpd in cpds:
-                # raw values (might be flat)
-                flat = np.array(cpd.get_values(), dtype=float)
-                # how many states does the child have?
-                r = cpd.variable_card
-                # how many parent‐configs?
-                n = flat.size // r
+            # Flatten parent axes to a 2D (var_card, parent_combo_count)
+            var_card = vals.shape[0]
+            flat = vals.reshape(var_card, -1)
 
-                if flat.size != r * n:
-                    return False  # something’s really weird
-
-                # reshape into (r states × n configs)
-                table = flat.reshape((r, n), order='F')
-
-                # check for any NaNs or negatives
-                if np.any(np.isnan(table)) or np.any(table < 0):
+            # (Optional) Verify count of parent combos using cardinalities (not state_names)
+            parents = cpd.variables[1:]
+            if parents:
+                parent_cards = [cpd.get_cardinality([p])[p] for p in parents]
+                expected = int(np.prod(parent_cards))
+                if flat.shape[1] != expected:
                     return False
 
-                # for each config, states must sum to 1
-                tol = 1e-8
-                col_sums = table.sum(axis=0)  # sum over states
-                if not np.allclose(col_sums, 1.0, atol=tol, rtol=tol):
-                    bad = np.where(~np.isclose(col_sums, 1.0, atol=tol, rtol=tol))[0]
-                    print(f"    Warning: CPD {cpd.variable} config(s) {bad.tolist()} sum to {col_sums[bad]}")
-                    return False
+            # Optional stricter checks — usually unnecessary:
+            if np.any(~np.isclose(flat.sum(axis=0), 1.0, atol=atol)):
+                return False
 
-            # finally, let pgmpy sanity‑check the whole model
-            return model.check_model()
-        except Exception:
-            return False
-                
+        return True
+    
  
     def get_network_info(self, model, network_name):
         """
@@ -175,7 +204,7 @@ class BayesianNetworkFilter:
                 'nodes': list(model.nodes()),
                 'max_cardinality': max([model.get_cardinality(node) for node in model.nodes()]),
                 'avg_cardinality': np.mean([model.get_cardinality(node) for node in model.nodes()]),
-                'is_discrete': self.is_discrete_only(model),
+                # 'is_discrete': self.is_discrete_only(model),
                 'under_50_nodes': self.has_50_or_fewer_nodes(model),
                 'complete_cpts': self.has_complete_cpts(model)
             }
@@ -234,14 +263,14 @@ class BayesianNetworkFilter:
             passed_filters = True
             
             # Filter 1: Discrete only
-            if not self.is_discrete_only(model):
-                if verbose:
-                    print("  ✗ Failed: Contains non-discrete variables")
-                passed_filters = False
-            else:
-                self.stats['discrete_only'] += 1
-                if verbose:
-                    print("  ✓ Passed: All discrete variables")
+            # if not self.is_discrete_only(model):
+            #     if verbose:
+            #         print("  ✗ Failed: Contains non-discrete variables")
+            #     passed_filters = False
+            # else:
+            #     self.stats['discrete_only'] += 1
+            #     if verbose:
+            #         print("  ✓ Passed: All discrete variables")
             
             # Filter 2: 50 or fewer nodes
             if not self.has_50_or_fewer_nodes(model):
@@ -355,7 +384,7 @@ def main():
     # Initialize filter
     filter_tool = BayesianNetworkFilter(
         input_dir='./automatic_converts',
-        output_dir='./filtered_networks'
+        output_dir='./temp'
     )
     
     # Run filtering

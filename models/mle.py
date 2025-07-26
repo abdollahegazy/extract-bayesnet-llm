@@ -1,54 +1,62 @@
-import numpy as np
-import pandas as pd
-from kl import kl_bn
+
+import logging
+logging.getLogger("pgmpy").setLevel(logging.WARNING)
+from pathlib import Path
+from pprint import pprint
+
+from kl import kl_bn_local
 from pgmpy.models import DiscreteBayesianNetwork
 from pgmpy.estimators import MaximumLikelihoodEstimator
 from pgmpy.readwrite import BIFReader
-from pathlib import Path
+
 
 def mle_baseline(model: DiscreteBayesianNetwork, N: int) -> DiscreteBayesianNetwork:
-    """
-    Create MLE baseline by sampling from ground truth and re-learning parameters.
-    
-    Parameters:
-    gt_model: Ground truth Bayesian network
-    N: Number of samples to generate
-    
-    Returns:
-    DiscreteBayesianNetwork: MLE-fitted network with same structure
-    """
 
     state_names = {
-        var: bn.get_cpds(var).state_names[var]
-        for var in bn.nodes()
+        var: model.get_cpds(var).state_names[var]
+        for var in model.nodes()
     }
-    samples = model.simulate(n_samples=N)
 
-    new_model = DiscreteBayesianNetwork(ebunch=model.edges())
+    samples = model.simulate(n_samples=N,seed=240)
 
-    new_model.fit(
+    mle_model = DiscreteBayesianNetwork()
+    mle_model.add_nodes_from(model.nodes())
+    mle_model.add_edges_from(model.edges())
+
+
+    mle_model.fit(
         data=samples,
         estimator=MaximumLikelihoodEstimator,
-        state_names=state_names
+        state_names=state_names,
     )
-    return new_model
+    return mle_model
 
 
 
-
-# Example usage and testing
 if __name__ == "__main__":
-    import matplotlib.pyplot as plt
     
-    # Create MLE baseline
     kls = []
 
-    for bn_name in Path('../data/filtered_networks').iterdir():
-        bn = BIFReader(bn_name).get_model()
-        mle_model = mle_baseline(bn, N=100)
+    e=[]
+    samples = 100
 
-        s = kl_bn(bn,mle_model)
-        kls.append(s)
+    for bn in Path('../data/temp').iterdir():
+        try:
+            print("="*20,bn,"="*20)
 
-    plt.hist(kls)
-    plt.savefig("temp")
+            bn = BIFReader(bn).get_model()
+            mle_model = mle_baseline(bn, N=samples)
+            div = kl_bn_local(bn,mle_model)
+
+            kls.append(div)
+            print(f"Acheived {div} KL Divergence\n")
+
+        except: pass;e.append(bn)
+            
+    pprint(e)
+    pprint(f'had {len(e)} error networks')
+
+    import matplotlib.pyplot as plt
+    plt.boxplot(kls)
+    plt.ylim(top=14)
+    plt.savefig(f"./images/MLE_{samples}")

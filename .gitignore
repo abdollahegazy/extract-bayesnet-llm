@@ -4,3 +4,5 @@
 .venv
 /data/automatic_converts/
 /data/manual_converts/
+*.pdf
+*.bif
