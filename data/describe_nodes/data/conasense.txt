@@ -1,0 +1,8 @@
+```python
+{
+  "Communication": "Communication represents the quality and performance of the communication network, and it can assume values 'Bandwidth' for data transfer capacity, 'CoverageArea' for the geographical reach of the network, 'Latency' for the delay in data transmission, and 'PacketLoss' for the percentage of lost data packets during transmission.",
+  "Navigation": "Navigation refers to the precision and efficiency of location-based services, and it can assume values 'Accuracy' for the precision of positioning, 'Mobility' for the ability to maintain service while in motion, and 'Speed' for the rate at which navigation updates are processed.",
+  "Sensing": "Sensing represents the ability to detect and measure environmental or system parameters, and it can assume values 'TransmissionRange' for the distance over which signals can be effectively transmitted, 'Angle' for the orientation or direction of sensing, and 'Uplink' for the data transmission from a device to a network.",
+  "Services": "Services represent the quality of experience delivered to end-users, and it can assume values 'Good' for optimal performance, 'Moderate' for acceptable but suboptimal performance, and 'Poor' for degraded or unsatisfactory performance."
+}
+```

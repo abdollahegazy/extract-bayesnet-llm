@@ -1,0 +1,16 @@
+```python
+{
+  "Constraint": "Constraint represents the mutually exclusive and exhaustive scenarios in the Bayesian Network, with possible values 'Scenario1' for theft, 'Scenario2' for accidental loss, 'Scenario3' for no incident, and 'NA' for an inconsistent state.",
+  "ECamera": "ECamera indicates whether the young person was seen on a camera, with '0' meaning not seen and '1' meaning seen.",
+  "ECameraSeenStealing": "ECameraSeenStealing represents whether the young person was observed stealing on camera, with '0' meaning not observed stealing and '1' meaning observed stealing.",
+  "EObjectGone": "EObjectGone indicates whether the valuable object is no longer in the possession of the old person, with '0' meaning the object is still present and '1' meaning the object is gone.",
+  "EPsychReport": "EPsychReport reflects the psychological evaluation of the young person’s capacity to steal, with '0' meaning the evaluation found no capacity to steal and '1' meaning the evaluation found capacity to steal.",
+  "Motive": "Motive represents whether the young person had a motive to steal, with '0' meaning no motive and '1' meaning a motive exists.",
+  "ObjectDroppedAccidentally": "ObjectDroppedAccidentally indicates whether the old person accidentally dropped the object, with '0' meaning the object was not dropped and '1' meaning the object was dropped accidentally.",
+  "Scenario1": "Scenario1 represents the scenario where the young person successfully steals the object, with '0' meaning this scenario did not occur and '1' meaning it did occur.",
+  "Scenario2": "Scenario2 represents the scenario where the object is accidentally dropped by the old person, with '0' meaning this scenario did not occur and '1' meaning it did occur.",
+  "Scenario3": "Scenario3 represents the scenario where neither theft nor accidental loss occurs, with '0' meaning this scenario did not occur and '1' meaning it did occur.",
+  "Sneak": "Sneak represents whether the young person attempted to approach the old person stealthily, with '0' meaning no such attempt and '1' meaning an attempt was made.",
+  "Stealing": "Stealing indicates whether the young person attempted to steal the object, with '0' meaning no theft attempt and '1' meaning a theft attempt occurred."
+}
+```

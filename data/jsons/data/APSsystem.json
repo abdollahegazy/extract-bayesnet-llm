@@ -1,0 +1,62 @@
+{
+  "Completeness": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "Consistency": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "DataQuality": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "NNMasterData": {
+    "states": [
+      "Complete",
+      "Incomplete"
+    ]
+  },
+  "NNTransactionData": {
+    "states": [
+      "Complete",
+      "Incomplete"
+    ]
+  },
+  "NNValues": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "PlanDeliveryTime": {
+    "states": [
+      "Complete",
+      "Incomplete"
+    ]
+  },
+  "QPlanDeliveryTime": {
+    "states": [
+      "Complete",
+      "Incomplete"
+    ]
+  },
+  "QSetupTime": {
+    "states": [
+      "Complete",
+      "Incomplete"
+    ]
+  },
+  "SetupTime": {
+    "states": [
+      "Complete",
+      "Incomplete"
+    ]
+  }
+}

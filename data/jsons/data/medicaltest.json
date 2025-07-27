@@ -1,0 +1,20 @@
+{
+  "Disease": {
+    "states": [
+      "no",
+      "yes"
+    ]
+  },
+  "Test1": {
+    "states": [
+      "no",
+      "yes"
+    ]
+  },
+  "Test2": {
+    "states": [
+      "no",
+      "yes"
+    ]
+  }
+}

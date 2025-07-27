@@ -1,0 +1,33 @@
+```python
+{
+  "APhaseFailure": "APhaseFailure represents a fault in the A-phase of the inverter, and it can be 'TRUE' if a fault is present or 'FALSE' if the phase is operating normally.",
+  "APhaseNegativeWaveFormDistortion": "APhaseNegativeWaveFormDistortion indicates distortion in the negative half-cycle of the A-phase waveform, with 'TRUE' denoting distortion and 'FALSE' denoting normal operation.",
+  "APhasePositiveWaveFormDistortion": "APhasePositiveWaveFormDistortion indicates distortion in the positive half-cycle of the A-phase waveform, with 'TRUE' denoting distortion and 'FALSE' denoting normal operation.",
+  "AbnormalPulseVoltageWaveform": "AbnormalPulseVoltageWaveform represents irregularities in the pulse voltage waveform across phases, where 'TRUE' indicates abnormalities and 'FALSE' indicates normal pulse behavior.",
+  "BPhaseFailure": "BPhaseFailure represents a fault in the B-phase of the inverter, and it can be 'TRUE' if a fault is present or 'FALSE' if the phase is operating normally.",
+  "BPhaseNegativeWaveFormDistortion": "BPhaseNegativeWaveFormDistortion indicates distortion in the negative half-cycle of the B-phase waveform, with 'TRUE' denoting distortion and 'FALSE' denoting normal operation.",
+  "BPhasePositiveWaveFormDistortion": "BPhasePositiveWaveFormDistortion indicates distortion in the positive half-cycle of the B-phase waveform, with 'TRUE' denoting distortion and 'FALSE' denoting normal operation.",
+  "C1Failure": "C1Failure represents a fault in the first capacitor (C1) of the DC link, where 'TRUE' indicates a fault and 'FALSE' indicates normal operation.",
+  "C1VoltageAnomaly": "C1VoltageAnomaly indicates an abnormal voltage condition in the first capacitor (C1), with 'TRUE' denoting an anomaly and 'FALSE' denoting normal voltage levels.",
+  "C2Failure": "C2Failure represents a fault in the second capacitor (C2) of the DC link, where 'TRUE' indicates a fault and 'FALSE' indicates normal operation.",
+  "C2VoltageAnomaly": "C2VoltageAnomaly indicates an abnormal voltage condition in the second capacitor (C2), with 'TRUE' denoting an anomaly and 'FALSE' denoting normal voltage levels.",
+  "CPhaseFailure": "CPhaseFailure represents a fault in the C-phase of the inverter, and it can be 'TRUE' if a fault is present or 'FALSE' if the phase is operating normally.",
+  "CPhaseNegativeWaveFormDistortion": "CPhaseNegativeWaveFormDistortion indicates distortion in the negative half-cycle of the C-phase waveform, with 'TRUE' denoting distortion and 'FALSE' denoting normal operation.",
+  "CPhasePositiveWaveFormDistortion": "CPhasePositiveWaveFormDistortion indicates distortion in the positive half-cycle of the C-phase waveform, with 'TRUE' denoting distortion and 'FALSE' denoting normal operation.",
+  "CapacitanceParameterWeakening": "CapacitanceParameterWeakening represents a degradation in the capacitance parameters of the DC link capacitors, where 'TRUE' indicates weakening and 'FALSE' indicates normal capacitance.",
+  "DCLinkFailure": "DCLinkFailure represents a fault in the DC link of the inverter, with 'TRUE' indicating a fault and 'FALSE' indicating normal operation.",
+  "G1PulseMissing": "G1PulseMissing indicates the loss of a pulse signal for the first gate driver, with 'TRUE' denoting a missing pulse and 'FALSE' denoting normal operation.",
+  "G2PulseMissing": "G2PulseMissing indicates the loss of a pulse signal for the second gate driver, with 'TRUE' denoting a missing pulse and 'FALSE' denoting normal operation.",
+  "G3PulseMissing": "G3PulseMissing indicates the loss of a pulse signal for the third gate driver, with 'TRUE' denoting a missing pulse and 'FALSE' denoting normal operation.",
+  "G4PulseMissing": "G4PulseMissing indicates the loss of a pulse signal for the fourth gate driver, with 'TRUE' denoting a missing pulse and 'FALSE' denoting normal operation.",
+  "G5PulseMissing": "G5PulseMissing indicates the loss of a pulse signal for the fifth gate driver, with 'TRUE' denoting a missing pulse and 'FALSE' denoting normal operation.",
+  "G6PulseMissing": "G6PulseMissing indicates the loss of a pulse signal for the sixth gate driver, with 'TRUE' denoting a missing pulse and 'FALSE' denoting normal operation.",
+  "T1OC": "T1OC represents an open-circuit fault in the first IGBT switch, with 'TRUE' indicating an open circuit and 'FALSE' indicating normal operation.",
+  "T2OC": "T2OC represents an open-circuit fault in the second IGBT switch, with 'TRUE' indicating an open circuit and 'FALSE' indicating normal operation.",
+  "T3OC": "T3OC represents an open-circuit fault in the third IGBT switch, with 'TRUE' indicating an open circuit and 'FALSE' indicating normal operation.",
+  "T4OC": "T4OC represents an open-circuit fault in the fourth IGBT switch, with 'TRUE' indicating an open circuit and 'FALSE' indicating normal operation.",
+  "T5OC": "T5OC represents an open-circuit fault in the fifth IGBT switch, with 'TRUE' indicating an open circuit and 'FALSE' indicating normal operation.",
+  "T6OC": "T6OC represents an open-circuit fault in the sixth IGBT switch, with 'TRUE' indicating an open circuit and 'FALSE' indicating normal operation.",
+  "VoltageWaveFormAsymmetry": "VoltageWaveFormAsymmetry indicates asymmetry in the voltage waveforms across phases, with 'TRUE' denoting asymmetry and 'FALSE' denoting balanced waveforms."
+}
+```

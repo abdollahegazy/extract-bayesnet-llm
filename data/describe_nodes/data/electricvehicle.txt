@@ -1,0 +1,27 @@
+```python
+{
+  "ACF": "ACF represents air conditioning failure, which can occur due to faults in the air conditioning system; it can assume 'yes' for failure and 'no' for no failure.",
+  "AM": "AM stands for artificial modification, which refers to unauthorized changes made to the electric vehicle; it can be 'yes' for modifications present and 'no' for no modifications.",
+  "AWE": "AWE indicates awareness of early fire, with 'yes' meaning the early fire was detected and 'no' meaning it was not detected.",
+  "BEP": "BEP represents battery pack flooding, which occurs when water penetrates the battery pack; it can be 'yes' for flooding and 'no' for no flooding.",
+  "BF": "BF stands for battery failure, which refers to malfunctions in the battery due to quality or structural issues; it can be 'yes' for failure and 'no' for no failure.",
+  "BO": "BO represents battery overcharge, which occurs when the battery is charged beyond its capacity; it can be 'yes' for overcharge and 'no' for no overcharge.",
+  "CBI": "CBI stands for collision-based ignition, which refers to fires caused by external collisions; it can be 'yes' for ignition due to collision and 'no' for no ignition.",
+  "CEF": "CEF represents charging equipment failure, which occurs when the charging system malfunctions; it can be 'yes' for failure and 'no' for no failure.",
+  "CI": "CI stands for collision ignition, which refers to fires caused by vehicle collisions; it can be 'yes' for ignition and 'no' for no ignition.",
+  "DTH": "DTH represents defroster temperature too high, which refers to overheating in the defroster system; it can be 'yes' for excessive temperature and 'no' for normal temperature.",
+  "EC": "EC stands for electrical component failure, which refers to malfunctions in the vehicle's electrical systems; it can be 'yes' for failure and 'no' for no failure.",
+  "ECF": "ECF represents electrical circuit failure, which occurs when electrical circuits malfunction or short circuit; it can be 'yes' for failure and 'no' for no failure.",
+  "FFE": "FFE stands for fire-fighting equipment, which refers to the presence of fire extinguishing tools in the vehicle; it can be 'yes' for equipment present and 'no' for no equipment.",
+  "HF": "HF represents human factors, which include actions or negligence by individuals that contribute to fire risk; it can be 'yes' for human factors involved and 'no' for no involvement.",
+  "IS": "IS stands for ignition source, which refers to external fire sources that can ignite the vehicle; it can be 'yes' for a source present and 'no' for no source.",
+  "ISC": "ISC represents internal short circuit, which occurs when the battery or electrical system short circuits internally; it can be 'yes' for short circuit and 'no' for no short circuit.",
+  "MMA": "MMA stands for man-made arson, which refers to intentional acts of setting the vehicle on fire; it can be 'yes' for arson present and 'no' for no arson.",
+  "OFE": "OFE represents overheating of the exhaust pipe, which can lead to fire due to excessive heat; it can be 'yes' for overheating and 'no' for no overheating.",
+  "REI": "REI stands for risk of external ignition, which refers to the likelihood of fire caused by external factors; it can be 'yes' for risk present and 'no' for no risk.",
+  "SBB": "SBB represents short circuit in the battery, which occurs when the battery's internal connections fail; it can be 'yes' for short circuit and 'no' for no short circuit.",
+  "SCB": "SCB stands for spontaneous combustion in the battery, which refers to thermal runaway or self-ignition within the battery; it can be 'yes' for combustion and 'no' for no combustion.",
+  "TLD": "TLD represents transmission line damage, which occurs when power transmission lines are physically damaged; it can be 'yes' for damage and 'no' for no damage.",
+  "VFD": "VFD stands for vehicle fire detected, which refers to the detection of a fire in the vehicle; it can be 'yes' for fire detected and 'no' for no fire detected."
+}
+```

@@ -1,0 +1,51 @@
+{
+  "CAF": {
+    "states": [
+      "Okay",
+      "Faulty"
+    ]
+  },
+  "CF": {
+    "states": [
+      "Okay",
+      "Faulty"
+    ]
+  },
+  "FlyOutAccident": {
+    "states": [
+      "Fatal",
+      "Major",
+      "Minor"
+    ]
+  },
+  "IFR": {
+    "states": [
+      "HR",
+      "HE"
+    ]
+  },
+  "OS": {
+    "states": [
+      "Proper",
+      "Improper"
+    ]
+  },
+  "SGF": {
+    "states": [
+      "Okay",
+      "Faulty"
+    ]
+  },
+  "TPF": {
+    "states": [
+      "Okay",
+      "Faulty"
+    ]
+  },
+  "WHF": {
+    "states": [
+      "N-Fail",
+      "FLRE"
+    ]
+  }
+}

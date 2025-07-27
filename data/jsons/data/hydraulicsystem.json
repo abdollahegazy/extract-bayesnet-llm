@@ -1,0 +1,26 @@
+{
+  "BlueHydraulicSystem": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "GreenHydraulicSystem": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "HydraulicSystem": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "YellowHydraulicSystem": {
+    "states": [
+      "True",
+      "False"
+    ]
+  }
+}

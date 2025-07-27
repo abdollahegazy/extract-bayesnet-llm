@@ -1,0 +1,7 @@
+```python
+{
+  "AverageDistance": "AverageDistance represents the distance (in kilometers) from a building to the nearest historical blue concrete manufacturing plant, where '0-300' indicates close proximity, '300-600' represents a moderate distance, and '>600' signifies a far distance.",
+  "BlueConcrete": "BlueConcrete indicates whether a building contains blue concrete, with 'False' meaning no blue concrete is present and 'True' meaning blue concrete is detected.",
+  "FloorArea": "FloorArea refers to the total floor area of a building in square meters, where '0-150' represents small buildings, '150-220' denotes medium-small buildings, '220-360' indicates medium-sized buildings, '360-1500' represents large buildings, and '>1500' signifies very large buildings."
+}
+```

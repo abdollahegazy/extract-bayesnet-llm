@@ -1,0 +1,9 @@
+```python
+{
+  "AtCrimeScene": "AtCrimeScene represents whether the suspect was present at the crime scene during the time of the crime, with 'T' indicating the suspect was at the crime scene and 'F' indicating they were not.",
+  "EredHanded": "EredHanded indicates whether the suspect was caught red-handed committing the crime, with 'T' meaning they were caught red-handed and 'F' meaning they were not.",
+  "EseenCS": "EseenCS represents whether the suspect was seen on camera at the crime scene during the crime, with 'T' indicating they were seen at the crime scene, 'F' indicating they were seen away from the crime scene, and 'NA' indicating they were not seen by cameras at all.",
+  "Ewallet": "Ewallet indicates whether the suspect was found holding the stolen wallet at the end of the simulation, with 'T' meaning the wallet was in their possession and 'F' meaning it was not.",
+  "Guilty": "Guilty represents the hypothesis of whether the suspect committed the crime, with 'T' indicating the suspect is guilty and 'F' indicating they are not guilty."
+}
+```

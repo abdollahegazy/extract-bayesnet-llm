@@ -1,0 +1,32 @@
+```python
+{
+    "ARHGAP6": "ARHGAP6 represents a Rho GTPase-activating protein involved in cytoskeletal regulation, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "ARHGEF19": "ARHGEF19 is a Rho guanine nucleotide exchange factor critical for MAPK signaling and actin stabilization, with 'Below' indicating decreased expression and 'Above' indicating increased expression.",
+    "CD44": "CD44 is a cell surface glycoprotein involved in cell adhesion and migration, with 'Below' indicating lower expression and 'Above' indicating higher expression.",
+    "CDC42-IT1": "CDC42-IT1 is a long non-coding RNA associated with CDC42 signaling, where 'Below' indicates reduced expression and 'Above' indicates elevated expression.",
+    "CDH1": "CDH1 encodes E-cadherin, a key protein in cell-cell adhesion, with 'Below' indicating reduced expression (potentially linked to metastasis) and 'Above' indicating normal or elevated expression.",
+    "CFL2": "CFL2 encodes cofilin-2, a protein regulating actin filament dynamics, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "DAGLB": "DAGLB encodes diacylglycerol lipase beta, involved in lipid signaling pathways, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "DGKZ": "DGKZ encodes diacylglycerol kinase zeta, which regulates diacylglycerol levels, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "DLC1": "DLC1 is a tumor suppressor gene encoding a Rho GTPase-activating protein, with 'Below' indicating reduced expression (potentially oncogenic) and 'Above' indicating normal or elevated expression.",
+    "ECM1": "ECM1 encodes extracellular matrix protein 1, involved in tissue remodeling and tumor progression, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "ERMAP": "ERMAP encodes erythroblast membrane-associated protein, linked to actin linkage and cytoskeletal organization, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "ERMP1": "ERMP1 encodes endoplasmic reticulum metallopeptidase 1, involved in protein processing, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "GNA11": "GNA11 encodes a G-protein subunit involved in signal transduction, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "GNG11": "GNG11 encodes a G-protein gamma subunit involved in cellular signaling, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "GPRC5A": "GPRC5A is a G-protein-coupled receptor implicated in cancer progression, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "ITGB2": "ITGB2 encodes integrin beta-2, a protein involved in cell adhesion and immune response, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "LACTB": "LACTB encodes lactamase beta, a mitochondrial protein linked to cytoskeletal reorganization, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "LIMK2": "LIMK2 encodes LIM domain kinase 2, which regulates actin cytoskeleton dynamics, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "PAAF1": "PAAF1 encodes proteasomal ATPase-associated factor 1, involved in protein degradation, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "PAK1": "PAK1 encodes p21-activated kinase 1, a regulator of cytoskeletal reorganization and cell motility, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "PAK2": "PAK2 encodes p21-activated kinase 2, involved in apoptosis and cytoskeletal dynamics, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "PIP": "PIP encodes prolactin-induced protein, associated with cellular signaling, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "PIP4K2A": "PIP4K2A encodes phosphatidylinositol-5-phosphate 4-kinase type 2 alpha, involved in phosphoinositide signaling, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "PIP5K1B": "PIP5K1B encodes phosphatidylinositol-4-phosphate 5-kinase type 1 beta, a key regulator of actin cytoskeleton, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "RAC2": "RAC2 encodes Rac family small GTPase 2, crucial for actin stabilization and cytoskeletal reorganization, with 'Below' indicating reduced expression and 'Above' indicating increased expression.",
+    "RHOJ": "RHOJ encodes a Rho GTPase involved in endothelial cell migration, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "ROCK2": "ROCK2 encodes Rho-associated protein kinase 2, a regulator of actin cytoskeleton and cell contraction, with 'Below' indicating reduced activity and 'Above' indicating increased activity.",
+    "RTKN": "RTKN encodes rhotekin, a Rho effector protein involved in cytoskeletal organization, with 'Below' indicating reduced expression and 'Above' indicating increased expression."
+}
+```

@@ -1,0 +1,10 @@
+```python
+{
+  "BeamWidth": "BeamWidth represents the width of the reinforced concrete beam, which can be 'Low' for narrower beams or 'High' for wider beams, affecting the structural behavior and failure mode.",
+  "ConcreteStrength": "ConcreteStrength refers to the compressive strength of the concrete used in the beam, with 'Low' indicating weaker concrete and 'High' indicating stronger concrete, influencing the beam's load-bearing capacity.",
+  "ProbabilityOfFailure": "ProbabilityOfFailure indicates whether the beam is likely to fail ('Fail') or remain structurally sound ('Pass') under given conditions.",
+  "Reinforcement": "Reinforcement represents the percentage of steel reinforcement in the beam, with 'Low' indicating a smaller percentage and 'High' indicating a larger percentage, which impacts the beam's resistance to failure.",
+  "TempAndHumidity": "TempAndHumidity refers to the environmental conditions of temperature and humidity, with 'Low' representing mild conditions and 'High' representing harsh conditions, which can affect material properties and durability.",
+  "WaterCementRatio": "WaterCementRatio represents the ratio of water to cement in the concrete mix, with 'Low' indicating a lower ratio (stronger, less porous concrete) and 'High' indicating a higher ratio (weaker, more porous concrete), influencing the beam's strength and durability."
+}
+```

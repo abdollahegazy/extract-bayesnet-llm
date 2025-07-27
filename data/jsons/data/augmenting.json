@@ -1,0 +1,42 @@
+{
+  "CmdSteeringOnTurn": {
+    "states": [
+      "Left",
+      "Straight",
+      "Right"
+    ]
+  },
+  "CurrentPosition": {
+    "states": [
+      "Near",
+      "On",
+      "Far"
+    ]
+  },
+  "CurrentSteering": {
+    "states": [
+      "Straight",
+      "Left",
+      "Right"
+    ]
+  },
+  "CurrentVelocity": {
+    "states": [
+      "Slow",
+      "Medium",
+      "Fast"
+    ]
+  },
+  "InTrack": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "SafeTurnRegion": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ExactlyOneBeatlesIsDead": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "GeorgeIsAlive": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "JohnIsAlive": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "PaulIsAlive": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "RingoIsAlive": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  }
+}

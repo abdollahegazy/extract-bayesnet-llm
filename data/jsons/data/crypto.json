@@ -1,0 +1,38 @@
+{
+  "Binance_Coin": {
+    "states": [
+      "Down",
+      "Up"
+    ]
+  },
+  "Bitcoin": {
+    "states": [
+      "Down",
+      "Up"
+    ]
+  },
+  "Ethereum": {
+    "states": [
+      "Down",
+      "Up"
+    ]
+  },
+  "Litecoin": {
+    "states": [
+      "Down",
+      "Up"
+    ]
+  },
+  "Ripple": {
+    "states": [
+      "Down",
+      "Up"
+    ]
+  },
+  "Tether": {
+    "states": [
+      "Down",
+      "Up"
+    ]
+  }
+}

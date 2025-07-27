@@ -1,0 +1,26 @@
+{
+  "JointFailure": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "PressureRegulatorLeakage": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "SealFailure": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ValveActivation": {
+    "states": [
+      "True",
+      "False"
+    ]
+  }
+}

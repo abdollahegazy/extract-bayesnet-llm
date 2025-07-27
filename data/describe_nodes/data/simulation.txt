@@ -1,0 +1,8 @@
+```python
+{
+  "JointFailure": "JointFailure represents the failure of a joint in the pressure regulator system, where 'True' indicates that a joint failure has occurred and 'False' indicates that it has not.",
+  "PressureRegulatorLeakage": "PressureRegulatorLeakage denotes the occurrence of a significant gas leakage from the pressure regulator, with 'True' meaning a leakage has occurred and 'False' meaning no leakage has occurred.",
+  "SealFailure": "SealFailure indicates the failure of a seal in the pressure regulator system, where 'True' means a seal failure has occurred and 'False' means it has not.",
+  "ValveActivation": "ValveActivation represents the activation of the safety valve in the pressure regulator system, with 'True' indicating that the valve has been activated and 'False' indicating it has not."
+}
+```

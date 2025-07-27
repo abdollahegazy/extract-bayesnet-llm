@@ -1,0 +1,296 @@
+{
+  "AbsorptionAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CalenderingRepellentWaterTimesAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CalenderingRepellingWaterTemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CalenderingRollDistanceAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CastingAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CastingDifferentialPressureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CastingTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CatalystGrindingAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CentrifugalRunningTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CirculatingWaterTemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CirculationWaterTemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CuringAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CuringTemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CuringTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CuttingAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DryingOfMedicineGranulesAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DryingRepellentWaterAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DryingRepellingWaterTemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DryingRepellingWaterTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DryingSolventRemovingAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DryingTemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DryingTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ExtrusionAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ExtrusionStrengthAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "FloodingTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "FrequencyOfWaterChangeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "GranuleCastingMoldingAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "GrindingTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "HoldingPressureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "HoldingTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "JacketTemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "KneadingAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "KneadingTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "LengthSettingValueAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "LiquidPreparationAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "MedicineGranulesDryingTemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "MedicineGranulesDryingTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "PolishAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "PolishTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "RepellentWaterAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ShineAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ShineTimeAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "SolventRemovingAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "TemperatureAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "VacuumDegreeAnomaly1": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "VacuumDegreeAnomaly2": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "VacuumTimeAnomaly1": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "VacuumTimeAnomaly2": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "WaterAdditionAnomaly": {
+    "states": [
+      "True",
+      "False"
+    ]
+  }
+}

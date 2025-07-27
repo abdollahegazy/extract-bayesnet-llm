@@ -1,0 +1,20 @@
+```python
+{
+  "C": "C represents the operating current density in the PEMWE system, where 'High' indicates a current density above 1 A/cm² and 'Low' indicates a current density below this threshold.",
+  "F": "F denotes the formation of hazardous or explosive H2/O2 gas mixtures, with 'Yes' indicating the presence of such mixtures and 'No' indicating their absence.",
+  "FPR": "FPR stands for the formation of peroxide radicals, which can degrade the membrane, with 'Yes' indicating the occurrence of radical formation and 'No' indicating its absence.",
+  "GP": "GP refers to gas permeation or crossover through the membrane during electrolysis, with 'Yes' indicating that gas permeation occurs and 'No' indicating it does not.",
+  "GRE": "GRE represents the employment of gas recombiners, with 'Yes' indicating that recombiners are used to mitigate risks and 'No' indicating they are not used.",
+  "H": "H represents the relative humidity of the polymeric membrane, where 'High' indicates a relative humidity of 70% or above and 'Low' indicates a relative humidity below this threshold.",
+  "HCF": "HCF stands for hazardous condition formation, with 'Yes' indicating that hazardous conditions have formed and 'No' indicating they have not.",
+  "HOR": "HOR refers to the recombination of H2 and O2 at the catalyst or membrane surface, with 'Yes' indicating that recombination occurs and 'No' indicating it does not.",
+  "IOA": "IOA represents inhibiting oxygen accumulation, with 'Yes' indicating that measures are in place to prevent oxygen accumulation and 'No' indicating they are not.",
+  "IRF": "IRF stands for inhibiting reaching the flammability range, with 'Yes' indicating that safeguards are in place to prevent hydrogen concentration from reaching the flammability range and 'No' indicating they are not.",
+  "P": "P represents the operating pressure in the PEMWE system, where 'High' indicates a pressure of 10 bar or above and 'Low' indicates a pressure below this threshold.",
+  "RGP": "RGP refers to the reduction in gas purity, with 'Yes' indicating a reduction in purity due to gas crossover and 'No' indicating no reduction in purity.",
+  "SBT": "SBT stands for surface or bulk treatment of the polymeric membrane, with 'Yes' indicating that such treatments have been applied to reduce gas permeation and 'No' indicating they have not.",
+  "SMT": "SMT represents sufficient membrane thickness, with 'Yes' indicating that the membrane thickness is adequate to minimize gas permeation and 'No' indicating it is not.",
+  "T": "T represents the operating temperature in the PEMWE system, where 'High' indicates a temperature of 343 K or above and 'Low' indicates a temperature below this threshold.",
+  "V": "V represents the cell voltage in the PEMWE system, where 'High' indicates a voltage of 1.8 V or above and 'Low' indicates a voltage below this threshold."
+}
+```

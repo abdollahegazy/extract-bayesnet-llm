@@ -1,0 +1,9 @@
+```python
+{
+  "AverageDistance": "AverageDistance represents the distance of a building to the nearest historical blue concrete manufacturing plant, with values '0-300' for buildings within 300 km, '300-600' for buildings 300 to 600 km away, and '>600' for buildings farther than 600 km.",
+  "BlueConcrete": "BlueConcrete indicates whether a building contains blue concrete, with 'False' representing no presence of blue concrete and 'True' representing its presence.",
+  "ConstructionYear": "ConstructionYear refers to the time period during which a building was constructed, with values '1930-1955', '1955-1960', '1960-1968', '1968-1975', and '1975-1980' corresponding to distinct historical phases of construction and blue concrete usage.",
+  "FloorArea": "FloorArea represents the total floor area of a building, with values '0-150' for small buildings, '150-220' for medium-small buildings, '220-360' for medium buildings, '360-1500' for large buildings, and '>1500' for very large buildings.",
+  "NumberOfStairwells": "NumberOfStairwells denotes the count of stairwells in a building, with values '0' for no stairwells, '1' for one stairwell, '2' for two stairwells, '3' for three stairwells, and '4' for four or more stairwells."
+}
+```

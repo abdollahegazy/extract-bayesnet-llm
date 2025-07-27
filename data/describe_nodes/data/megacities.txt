@@ -1,0 +1,22 @@
+```python
+{
+  "ExcessVehicleEmission": "ExcessVehicleEmission represents the occurrence of excessive vehicle emissions, where 'True' indicates that emissions exceed acceptable levels and 'False' indicates emissions are within acceptable limits.",
+  "M1": "M1 represents the consumption of unqualified oil, where 'True' indicates that unqualified oil is being used and 'False' indicates that only qualified oil is being consumed.",
+  "M2": "M2 represents a bad traffic situation, where 'True' indicates severe traffic congestion and 'False' indicates normal traffic conditions.",
+  "M3": "M3 represents emissions by vehicles with defects, where 'True' indicates defective vehicles are contributing to emissions and 'False' indicates no emissions from defective vehicles.",
+  "M4": "M4 represents severe emissions from high-pollution vehicles, where 'True' indicates significant emissions from such vehicles and 'False' indicates no significant emissions from high-pollution vehicles.",
+  "M5": "M5 represents the production of inferior oil, where 'True' indicates that inferior oil is being produced and 'False' indicates that only high-quality oil is being produced.",
+  "M6": "M6 represents the excessive use of high-pollution vehicles, where 'True' indicates a high number of such vehicles in use and 'False' indicates limited or no use of high-pollution vehicles.",
+  "X1": "X1 represents a lack of supervision and policy guidance, where 'True' indicates insufficient regulation and policy enforcement and 'False' indicates adequate supervision and guidance.",
+  "X10": "X10 represents the presence of excess heavy trucks, where 'True' indicates a high number of heavy trucks contributing to emissions and 'False' indicates a normal or low number of heavy trucks.",
+  "X11": "X11 represents the presence of excess 'yellow label' cars, where 'True' indicates a high number of old, high-emission vehicles and 'False' indicates a normal or low number of such vehicles.",
+  "X2": "X2 represents excess vehicles, where 'True' indicates a high density of vehicles contributing to emissions and 'False' indicates a manageable number of vehicles.",
+  "X3": "X3 represents severe traffic jams, where 'True' indicates significant traffic congestion and 'False' indicates smooth traffic flow.",
+  "X4": "X4 represents the aging of catalytic units and combustors, where 'True' indicates that many vehicles have outdated or degraded emission control systems and 'False' indicates that most vehicles have functioning systems.",
+  "X5": "X5 represents vehicle design defects, where 'True' indicates the presence of vehicles with outdated or flawed designs contributing to emissions and 'False' indicates no significant design defects.",
+  "X6": "X6 represents examination defects, where 'True' indicates insufficient or ineffective vehicle inspections and 'False' indicates proper and effective inspections.",
+  "X7": "X7 represents non-strict supervision, where 'True' indicates lax enforcement of regulations on high-pollution vehicles and 'False' indicates strict enforcement.",
+  "X8": "X8 represents oil refinery capability defects, where 'True' indicates that refineries are unable to produce high-quality oil and 'False' indicates that refineries are meeting quality standards.",
+  "X9": "X9 represents market demand for unqualified oil, where 'True' indicates significant demand for low-quality oil and 'False' indicates low or no demand for unqualified oil."
+}
+```

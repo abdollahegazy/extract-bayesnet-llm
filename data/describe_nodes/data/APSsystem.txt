@@ -1,0 +1,14 @@
+```python
+{
+  "Completeness": "Completeness represents the degree to which the ERP data is complete, with 'High' indicating that most required data is present and 'Low' indicating significant data gaps.",
+  "Consistency": "Consistency measures the extent to which the ERP data adheres to predefined rules and formats, with 'High' indicating minimal inconsistencies and 'Low' indicating frequent issues such as conflicting or duplicate data.",
+  "DataQuality": "DataQuality is the overall assessment of the ERP data's quality, with 'High' indicating that the data meets the necessary standards for APS system implementation and 'Low' indicating that it does not.",
+  "NNMasterData": "NNMasterData refers to the completeness of master data in the ERP system, where 'Complete' indicates that all necessary master data attributes are available and 'Incomplete' indicates missing attributes.",
+  "NNTransactionData": "NNTransactionData represents the completeness of transaction data in the ERP system, with 'Complete' meaning all required transaction records are present and 'Incomplete' meaning some are missing.",
+  "NNValues": "NNValues assesses the quality of numerical or categorical values in the ERP data, with 'High' indicating accurate and reliable values and 'Low' indicating errors or inaccuracies.",
+  "PlanDeliveryTime": "PlanDeliveryTime evaluates whether the planned delivery times in the ERP system are complete, with 'Complete' meaning the data is fully available and 'Incomplete' meaning it is missing or insufficient.",
+  "QPlanDeliveryTime": "QPlanDeliveryTime captures the subjective assessment of the completeness of planned delivery times based on expert input, with 'Complete' indicating confidence in the data's availability and 'Incomplete' indicating doubts or gaps.",
+  "QSetupTime": "QSetupTime reflects the subjective evaluation of the completeness of setup times in the ERP system, with 'Complete' indicating that most setup times are recorded and 'Incomplete' indicating significant omissions.",
+  "SetupTime": "SetupTime measures the actual completeness of setup times in the ERP system, with 'Complete' meaning the data is fully recorded and 'Incomplete' meaning it is partially or entirely missing."
+}
+```

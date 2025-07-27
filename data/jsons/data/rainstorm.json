@@ -1,0 +1,206 @@
+{
+  "EmAct1": {
+    "states": [
+      "Effective",
+      "Void"
+    ]
+  },
+  "EmAct2": {
+    "states": [
+      "Effective",
+      "Void"
+    ]
+  },
+  "EmAct3": {
+    "states": [
+      "Effective",
+      "Void"
+    ]
+  },
+  "EmAct4": {
+    "states": [
+      "Effective",
+      "Void"
+    ]
+  },
+  "EmAct5": {
+    "states": [
+      "Effective",
+      "Void"
+    ]
+  },
+  "EmAct6": {
+    "states": [
+      "Effective",
+      "Void"
+    ]
+  },
+  "EmAct7": {
+    "states": [
+      "Effective",
+      "Void"
+    ]
+  },
+  "EmAct8": {
+    "states": [
+      "Effective",
+      "Void"
+    ]
+  },
+  "Scenario1": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario10": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario11": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario2": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario3": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario4": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario5": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario6": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario7": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Scenario8": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Sent1": {
+    "states": [
+      "Optimism",
+      "Gloomy"
+    ]
+  },
+  "Sent2": {
+    "states": [
+      "Optimism",
+      "Gloomy"
+    ]
+  },
+  "Sent3": {
+    "states": [
+      "Optimism",
+      "Gloomy"
+    ]
+  },
+  "Sent4": {
+    "states": [
+      "Optimism",
+      "Gloomy"
+    ]
+  },
+  "Sent5": {
+    "states": [
+      "Optimism",
+      "Gloomy"
+    ]
+  },
+  "Sent6": {
+    "states": [
+      "Optimism",
+      "Gloomy"
+    ]
+  },
+  "Sent7": {
+    "states": [
+      "Optimism",
+      "Gloomy"
+    ]
+  },
+  "Sent8": {
+    "states": [
+      "Optimism",
+      "Gloomy"
+    ]
+  },
+  "Target1": {
+    "states": [
+      "Attain",
+      "Miss"
+    ]
+  },
+  "Target2": {
+    "states": [
+      "Attain",
+      "Miss"
+    ]
+  },
+  "Target3": {
+    "states": [
+      "Attain",
+      "Miss"
+    ]
+  },
+  "Target4": {
+    "states": [
+      "Attain",
+      "Miss"
+    ]
+  },
+  "Target5": {
+    "states": [
+      "Attain",
+      "Miss"
+    ]
+  },
+  "Target6": {
+    "states": [
+      "Attain",
+      "Miss"
+    ]
+  },
+  "Target7": {
+    "states": [
+      "Attain",
+      "Miss"
+    ]
+  },
+  "Target8": {
+    "states": [
+      "Attain",
+      "Miss"
+    ]
+  }
+}

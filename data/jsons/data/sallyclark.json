@@ -1,0 +1,38 @@
+{
+  "ABruising": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "ADisease": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "AMurder": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "BBruising": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "BDisease": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "BMurder": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  }
+}

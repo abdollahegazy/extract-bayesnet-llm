@@ -1,0 +1,9 @@
+```python
+{
+  "ExactlyOneBeatlesIsDead": "ExactlyOneBeatlesIsDead represents the proposition that exactly one member of The Beatles is deceased, and it can assume the values 'TRUE' if exactly one member is dead and 'FALSE' otherwise.",
+  "GeorgeIsAlive": "GeorgeIsAlive indicates whether George Harrison is alive, with 'TRUE' meaning he is alive and 'FALSE' meaning he is deceased.",
+  "JohnIsAlive": "JohnIsAlive indicates whether John Lennon is alive, with 'TRUE' meaning he is alive and 'FALSE' meaning he is deceased.",
+  "PaulIsAlive": "PaulIsAlive indicates whether Paul McCartney is alive, with 'TRUE' meaning he is alive and 'FALSE' meaning he is deceased.",
+  "RingoIsAlive": "RingoIsAlive indicates whether Ringo Starr is alive, with 'TRUE' meaning he is alive and 'FALSE' meaning he is deceased."
+}
+```

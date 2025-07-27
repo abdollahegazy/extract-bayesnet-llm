@@ -1,0 +1,15 @@
+```python
+{
+  "DragChainLinkBroken": "DragChainLinkBroken represents the failure of the drag chain link in the dragline's rope segment, where 'TRUE' indicates the chain link has broken and 'FALSE' indicates it is functioning properly.",
+  "DragHitchShacklePinOut": "DragHitchShacklePinOut refers to the failure of the drag hitch shackle pin in the dragline's rope segment, with 'TRUE' indicating the pin has failed and 'FALSE' indicating it is intact.",
+  "DragRopeFault": "DragRopeFault represents a fault or failure in the drag rope, a critical component of the dragline's rope segment, where 'TRUE' indicates a fault has occurred and 'FALSE' indicates normal operation.",
+  "DragSubsystem": "DragSubsystem represents the overall status of the drag subsystem, which includes the drag rope, drag chain link, and drag hitch shackle, with 'TRUE' indicating a failure in the subsystem and 'FALSE' indicating it is operational.",
+  "DumpRopeFault": "DumpRopeFault represents a fault or failure in the dump rope, a component responsible for connecting the dragline to the bucket, where 'TRUE' indicates a fault and 'FALSE' indicates normal operation.",
+  "DumpSocketPinOut": "DumpSocketPinOut refers to the failure of the dump socket pin in the dump subsystem, with 'TRUE' indicating the pin has failed and 'FALSE' indicating it is functioning correctly.",
+  "DumpSubsystem": "DumpSubsystem represents the overall status of the dump subsystem, which includes the dump rope and dump socket pin, with 'TRUE' indicating a failure in the subsystem and 'FALSE' indicating it is operational.",
+  "HoistChainPinOut": "HoistChainPinOut refers to the failure of the hoist chain pin in the hoist subsystem, with 'TRUE' indicating the pin has failed and 'FALSE' indicating it is intact.",
+  "HoistRopeSystem": "HoistRopeSystem represents the status of the hoist rope, a critical component of the hoist subsystem, where 'TRUE' indicates a failure and 'FALSE' indicates it is functioning properly.",
+  "HoistSubsystem": "HoistSubsystem represents the overall status of the hoist subsystem, which includes the hoist rope and hoist chain pin, with 'TRUE' indicating a failure in the subsystem and 'FALSE' indicating it is operational.",
+  "RopeSegment": "RopeSegment represents the overall availability of the rope segment, which is a combination of the drag, dump, and hoist subsystems, with 'TRUE' indicating the segment is operational and 'FALSE' indicating it is unavailable due to failures."
+}
+```

@@ -1,0 +1,110 @@
+{
+  "AccidentalViolations": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "CreateAFalseImpressionToDeceiveTheRegulators": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "DecisionErrors": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "DeparmentsAndInstitutionsAreNotComplete": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "HabitualViolations": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "IllegalCommand": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "InadequateEmergencyPlan": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "InsufficientCracdownOnIllegalActivities": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "InsufficientSupervisionOfWorkSafety": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "MentalStates": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "OrganizeProductionInViolationOfLawsAndRegulations": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "PerceptualErrors": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "PhysicalIntellectualDisability": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "SafetyEducationAndTraning": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "SafetySupervisionIsInadequate": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "SecurityManagementConfusion": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "SkillBasedErrors": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  },
+  "TechnicalEnvironment": {
+    "states": [
+      "Non-occurence",
+      "Occurence"
+    ]
+  }
+}

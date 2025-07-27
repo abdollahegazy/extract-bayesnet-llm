@@ -1,0 +1,16 @@
+```python
+{
+  "BA": "BA represents the likelihood of blockchain adoption in the organization, where 'Low' indicates a low probability of adoption and 'High' indicates a high probability of adoption.",
+  "COMPB": "COMPB represents the compatibility of blockchain technology with existing systems and processes, where 'Low' indicates poor compatibility and 'High' indicates strong compatibility.",
+  "COMPX": "COMPX denotes the perceived complexity of implementing blockchain technology, with 'Low' indicating low complexity and 'High' indicating high complexity.",
+  "CP": "CP refers to competitive pressure within the industry to adopt blockchain, where 'Low' indicates minimal pressure and 'High' indicates significant pressure.",
+  "PEOU": "PEOU stands for perceived ease of use of blockchain technology, where 'Low' indicates that the technology is perceived as difficult to use and 'High' indicates it is perceived as easy to use.",
+  "PFB": "PFB represents perceived financial benefits of blockchain adoption, where 'Low' indicates minimal financial benefits and 'High' indicates significant financial benefits.",
+  "PR": "PR denotes partner readiness, reflecting the willingness and capability of supply chain partners to adopt blockchain, with 'Low' indicating low readiness and 'High' indicating high readiness.",
+  "PU": "PU stands for perceived usefulness of blockchain technology, where 'Low' indicates that the technology is perceived as less useful and 'High' indicates it is perceived as highly useful.",
+  "RA": "RA represents the relative advantage of blockchain over existing technologies, where 'Low' indicates minimal advantage and 'High' indicates significant advantage.",
+  "TE": "TE refers to the availability of training and education on blockchain technology, where 'Low' indicates insufficient training and 'High' indicates comprehensive training programs.",
+  "TKH": "TKH denotes the technical know-how within the organization to implement blockchain, where 'Low' indicates limited technical expertise and 'High' indicates strong technical expertise.",
+  "TMS": "TMS represents top management support for blockchain adoption, where 'Low' indicates weak support and 'High' indicates strong support."
+}
+```

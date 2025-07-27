@@ -1,0 +1,17 @@
+```python
+{
+  "Budget": "Budget represents the balance between the supply and demand of cultural ecosystem services (CES), and it can assume values 'Deficit' when supply is insufficient, 'Balance' when supply matches demand, and 'Surplus' when supply exceeds demand.",
+  "Bus": "Bus represents the density of bus and subway stations in a community, with 'Low' indicating fewer stations and 'High' indicating a greater density of stations.",
+  "Demand": "Demand represents the level of CES demand in a community, with 'Low' indicating minimal demand, 'Medium' indicating moderate demand, and 'High' indicating significant demand.",
+  "Green": "Green represents the green space coverage rate in a community, with 'Low' indicating less than 15%, 'Medium' indicating 15-30%, and 'High' indicating more than 30% coverage.",
+  "Lot": "Lot represents the density of public parking lots in a community, with 'Low' indicating fewer parking lots and 'High' indicating a higher density of parking lots.",
+  "Opportunity": "Opportunity represents the recreational convenience of accessing CES, with 'Low' indicating limited convenience, 'Medium' indicating moderate convenience, and 'High' indicating high convenience.",
+  "Park": "Park represents the availability of recreational infrastructure such as parks and facilities, with 'Low' indicating poor availability, 'Medium' indicating moderate availability, and 'High' indicating abundant availability.",
+  "People": "People represents the population density in a community, with 'Low' indicating fewer than 150 people per 10,000 m², 'Medium' indicating 150-250 people per 10,000 m², and 'High' indicating more than 250 people per 10,000 m².",
+  "Potential": "Potential represents the aesthetic and recreational value of landscapes in a community, with 'Low' indicating minimal value, 'Medium' indicating moderate value, and 'High' indicating significant value.",
+  "Road": "Road represents the road density in a community, with 'Low' indicating less than 5 km/km² and 'High' indicating more than 5 km/km².",
+  "Supply": "Supply represents the level of CES provided by a community, with 'Low' indicating minimal supply, 'Medium' indicating moderate supply, and 'High' indicating significant supply.",
+  "Traffic": "Traffic represents the convenience of accessing recreational areas via transportation, with 'Low' indicating poor accessibility, 'Medium' indicating moderate accessibility, and 'High' indicating excellent accessibility.",
+  "Water": "Water represents the presence of water bodies in a community, with 'No' indicating the absence of water bodies and 'Yes' indicating their presence."
+}
+```

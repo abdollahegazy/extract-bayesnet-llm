@@ -1,0 +1,140 @@
+{
+  "ACF": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "AM": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "AWE": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "BEP": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "BF": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "BO": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "CBI": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "CEF": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "CI": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "DTH": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "EC": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "ECF": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "FFE": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "HF": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "IS": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "ISC": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "MMA": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "OFE": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "REI": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "SBB": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "SCB": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "TLD": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "VFD": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  }
+}

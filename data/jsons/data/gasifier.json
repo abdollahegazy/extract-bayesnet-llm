@@ -1,0 +1,242 @@
+{
+  "AbnormalCoalWater": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "AbnormalLiquidLevel": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "AbnormalQuenchWater": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "AbnormalTemperature": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "AntiCorrosion": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "BurnerDamaged": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "CorrosionFailure": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "Cracking": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "DeliberateDestruction": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "ExternalCorrosion": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "FurnaceBricks": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "GasifierAbnormality": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "GasifierFailure": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "GaugeDamaged": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "HighCO2": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "HighConcentration": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "HighFlow": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "HighFlowRate": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "HighH2O": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "HighH2S": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "HighOxygen": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "HumanOrganization": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "ImproperOperation": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "Insulation": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "InternalCorrosion": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "Leakage": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "LowConcentration": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "LowFlowRate": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "LowLiquidLevel": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "LowOxygen": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "MediumContent": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "PiecesOfSlag": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "PreJobTraining": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "PressureFluctuation": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "SensorDamaged1": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "TemperatureSensor": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "TooHighTemperature": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "TooLowTemperature": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "Unattended": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  },
+  "UnintentionalDestruction": {
+    "states": [
+      "Occurred",
+      "NotOccurred"
+    ]
+  }
+}

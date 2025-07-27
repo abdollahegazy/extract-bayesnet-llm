@@ -1,0 +1,11 @@
+```python
+{
+  "CHL": "CHL represents resistance to chloramphenicol, a phenicol antibiotic, where 'r' indicates resistance and 's' indicates susceptibility.",
+  "CIP": "CIP represents resistance to ciprofloxacin, a fluoroquinolone antibiotic, where 'r' indicates resistance and 's' indicates susceptibility.",
+  "CTX": "CTX represents resistance to cefotaxime, a third-generation cephalosporin, where 'r' indicates resistance and 's' indicates susceptibility.",
+  "FFC": "FFC represents resistance to florfenicol, a phenicol antibiotic related to chloramphenicol, where 'r' indicates resistance and 's' indicates susceptibility.",
+  "GEN": "GEN represents resistance to gentamicin, an aminoglycoside antibiotic, where 'r' indicates resistance and 's' indicates susceptibility.",
+  "NAL": "NAL represents resistance to nalidixic acid, a quinolone antibiotic, where 'r' indicates resistance and 's' indicates susceptibility.",
+  "TET": "TET represents resistance to tetracycline, a broad-spectrum antibiotic, where 'r' indicates resistance and 's' indicates susceptibility."
+}
+```

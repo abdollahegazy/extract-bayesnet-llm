@@ -1,0 +1,76 @@
+{
+  "Constraint": {
+    "states": [
+      "Scenario1",
+      "Scenario2",
+      "Scenario3",
+      "NA"
+    ]
+  },
+  "ECamera": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "ECameraSeenStealing": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "EObjectGone": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "EPsychReport": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "Motive": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "ObjectDroppedAccidentally": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "Scenario1": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "Scenario2": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "Scenario3": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "Sneak": {
+    "states": [
+      "0",
+      "1"
+    ]
+  },
+  "Stealing": {
+    "states": [
+      "0",
+      "1"
+    ]
+  }
+}

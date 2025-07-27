@@ -1,0 +1,28 @@
+```python
+{
+  "AbilityToEvacuate": "AbilityToEvacuate represents the capacity of individuals to leave flood-affected areas, with 'Zero' indicating no ability to evacuate and 'High' indicating full ability to evacuate.",
+  "ActiveHurricane": "ActiveHurricane indicates whether a hurricane is currently occurring, with 'No' meaning no hurricane and 'Yes' meaning an active hurricane is present.",
+  "DrowningMortality": "DrowningMortality represents the risk of fatalities due to drowning during flood events, with 'Zero' indicating no risk and 'High' indicating a significant risk.",
+  "EvacuationRequired": "EvacuationRequired represents the necessity for evacuation due to flooding, with 'Zero' indicating no need and 'High' indicating a critical need for evacuation.",
+  "ExtremePrecipitation": "ExtremePrecipitation represents the intensity of heavy rainfall events, with 'Zero' indicating no extreme precipitation and 'High' indicating severe precipitation levels.",
+  "ExtremePrecipitationNonHurricane": "ExtremePrecipitationNonHurricane represents the intensity of heavy rainfall events not associated with hurricanes, with 'Zero' indicating no extreme precipitation and 'High' indicating severe levels.",
+  "FloodExposure": "FloodExposure represents the extent to which populations or assets are exposed to flooding, with 'Zero' indicating no exposure and 'High' indicating significant exposure.",
+  "FloodHazard": "FloodHazard represents the overall risk of flooding in an area, with 'Zero' indicating no hazard and 'High' indicating a severe flood hazard.",
+  "FloodPreparedness": "FloodPreparedness indicates whether measures are in place to prepare for flooding, with 'Yes' meaning preparedness exists and 'No' meaning it does not.",
+  "HurricaneCategory": "HurricaneCategory represents the severity of an active hurricane, with 'Zero' indicating no hurricane and 'High' indicating a major hurricane.",
+  "NuisanceFloodExposure": "NuisanceFloodExposure represents the extent of exposure to minor, recurrent flooding, with 'Zero' indicating no exposure and 'High' indicating significant exposure.",
+  "NuisanceFloodFrequency": "NuisanceFloodFrequency represents how often nuisance flooding occurs, with 'Zero' indicating no occurrences and 'High' indicating frequent occurrences.",
+  "NuisanceFloodHazard": "NuisanceFloodHazard represents the risk posed by minor, recurrent flooding, with 'Zero' indicating no hazard and 'High' indicating a significant hazard.",
+  "PersonalVehicle": "PersonalVehicle indicates whether individuals have access to a personal vehicle for evacuation, with 'Yes' meaning access exists and 'No' meaning it does not.",
+  "PhysicalFloodProtection": "PhysicalFloodProtection indicates whether infrastructure such as flood walls or drainage systems is in place to mitigate flooding, with 'Yes' meaning protection exists and 'No' meaning it does not.",
+  "PopulationLocation": "PopulationLocation represents the distribution of people in areas prone to flooding, with 'Zero' indicating no population and 'High' indicating a dense population in flood-prone areas.",
+  "RegionWithCoastline": "RegionWithCoastline indicates whether the area in question has a coastline, with 'No' meaning it does not and 'Yes' meaning it does.",
+  "RiskToHumanHealth": "RiskToHumanHealth represents the overall risk of adverse health impacts due to flooding, with 'Zero' indicating no risk and 'High' indicating significant risk.",
+  "RoadwayAccessibility": "RoadwayAccessibility represents the extent to which roads remain usable during flooding, with 'Zero' indicating no accessibility and 'High' indicating full accessibility.",
+  "RoadwayLocation": "RoadwayLocation represents the extent to which roads are located in flood-prone areas, with 'Zero' indicating no roads in such areas and 'High' indicating many roads in flood-prone areas.",
+  "SeaLevelRise": "SeaLevelRise represents the extent of long-term increases in sea level, with 'Zero' indicating no rise and 'High' indicating significant rise.",
+  "StormSurge": "StormSurge represents the intensity of storm-driven coastal flooding, with 'Zero' indicating no surge and 'High' indicating severe surge.",
+  "StormSurgeProtection": "StormSurgeProtection indicates whether measures such as sea walls or natural barriers are in place to mitigate storm surges, with 'Yes' meaning protection exists and 'No' meaning it does not.",
+  "TideLevelAboveHighTide": "TideLevelAboveHighTide represents the extent to which tides exceed normal high tide levels, with 'Zero' indicating no excess and 'High' indicating significant excess."
+}
+```

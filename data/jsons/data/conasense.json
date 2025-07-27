@@ -1,0 +1,31 @@
+{
+  "Communication": {
+    "states": [
+      "Bandwidth",
+      "CoverageArea",
+      "Latency",
+      "PacketLoss"
+    ]
+  },
+  "Navigation": {
+    "states": [
+      "Accuracy",
+      "Mobility",
+      "Speed"
+    ]
+  },
+  "Sensing": {
+    "states": [
+      "TransmissionRange",
+      "Angle",
+      "Uplink"
+    ]
+  },
+  "Services": {
+    "states": [
+      "Good",
+      "Moderate",
+      "Poor"
+    ]
+  }
+}

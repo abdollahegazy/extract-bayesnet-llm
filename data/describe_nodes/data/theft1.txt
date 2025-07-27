@@ -1,0 +1,8 @@
+```python
+{
+  "EredHanded": "EredHanded represents whether the suspect was caught red-handed during the crime, with 'T' indicating the suspect was caught red-handed and 'F' indicating they were not.",
+  "EseenCS": "EseenCS represents whether the suspect was seen by cameras at the crime scene during the crime time, with 'T' indicating they were seen at the crime scene and 'F' indicating they were seen away from the crime scene.",
+  "Ewallet": "Ewallet represents whether the suspect was holding the stolen wallet at the end of the simulation, with 'T' indicating the wallet was in their possession and 'F' indicating it was not.",
+  "Guilty": "Guilty represents the hypothesis of whether the suspect committed the crime, with 'T' indicating the suspect is guilty and 'F' indicating the suspect is innocent."
+}
+```

@@ -1,0 +1,56 @@
+{
+  "ActivityIndustrialArea": {
+    "states": [
+      "Routine",
+      "Unusual"
+    ]
+  },
+  "ActivitySiteA": {
+    "states": [
+      "Routine",
+      "Unusual"
+    ]
+  },
+  "ActivitySiteB": {
+    "states": [
+      "Routine",
+      "Unusual"
+    ]
+  },
+  "ThunderstormsA": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "ThunderstormsB": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "TrafficUnusualEvent": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "UsualRushHourTraffic": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "VehicleDensityA": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "VehicleDensityB": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  }
+}

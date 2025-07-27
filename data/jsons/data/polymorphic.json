@@ -1,0 +1,156 @@
+{
+  "ChemicalCorrosion": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "CorrosionFailure": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "ExcessiveInterShaftCurrent": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "ExcessiveSpeed": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "HighFrequencyPulseVoltage": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "HighTemperatureGluing": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "ImproperAssembly": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "ImproperLubrification": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "InappropriateClearance": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "Indentation": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "InsulationDeterioration": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "LocalizedHighTemperatures": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "Moisture": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "PlasticDeformation": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "PoorCooling": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "PoorLubrification": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "PresenceAbrasiveParticles": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "ScratchVibration": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "SeverePartialDischarges": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "SurfaceCorrosion": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "SystemDegradation": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  },
+  "WearFault": {
+    "states": [
+      "Normal",
+      "Degradation",
+      "Failed"
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "M1": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M10": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M11": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M12": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M13": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M14": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M15": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M2": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M3": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M4": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M5": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M6": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M7": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M8": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "M9": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "TankLeakage": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X1": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X10": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X11": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X12": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X13": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X14": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X15": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X16": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X17": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X18": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X19": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X2": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X20": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X21": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X22": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X23": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X24": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X25": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X3": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X4": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X5": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X6": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X7": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X8": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X9": {
+    "states": [
+      "True",
+      "False"
+    ]
+  }
+}

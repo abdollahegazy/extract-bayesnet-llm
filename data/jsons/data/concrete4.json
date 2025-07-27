@@ -1,0 +1,30 @@
+{
+  "AverageDistance": {
+    "states": [
+      "0-300",
+      "300-600",
+      ">600"
+    ]
+  },
+  "Basement": {
+    "states": [
+      "False",
+      "True"
+    ]
+  },
+  "BlueConcrete": {
+    "states": [
+      "False",
+      "True"
+    ]
+  },
+  "ConstructionYear": {
+    "states": [
+      "1930-1955",
+      "1955-1960",
+      "1960-1968",
+      "1968-1975",
+      "1975-1980"
+    ]
+  }
+}

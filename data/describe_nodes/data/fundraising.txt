@@ -1,0 +1,12 @@
+```python
+{
+  "FailureInvest": "FailureInvest represents the occurrence of financial losses due to fraudulent investments, where 'Yes' indicates that losses have occurred and 'No' indicates no losses.",
+  "FinancialFraud": "FinancialFraud represents the presence of fraudulent financial schemes, with 'Yes' indicating the occurrence of fraud and 'No' indicating no fraud.",
+  "LackAwareness": "LackAwareness refers to an individual's insufficient risk awareness about fraudulent investments, where 'Yes' means the individual lacks awareness and 'No' means they are aware.",
+  "LackKnowledge": "LackKnowledge represents the absence of professional investment knowledge, with 'Yes' indicating a lack of knowledge and 'No' indicating sufficient knowledge.",
+  "LackRegulation": "LackRegulation represents the absence or insufficiency of regulatory oversight on financial fraud, where 'Yes' indicates weak or no regulation and 'No' indicates effective regulation.",
+  "OverTrust": "OverTrust refers to the tendency to overly rely on others' recommendations for investment decisions, where 'Yes' indicates over-reliance and 'No' indicates independent decision-making.",
+  "PatsyInvestment": "PatsyInvestment represents the act of investing in fraudulent schemes due to deception, where 'Yes' indicates such an investment and 'No' indicates no such investment.",
+  "PromotionalMessages": "PromotionalMessages represents the receipt of fraudulent promotional messages, with 'Yes' indicating that such messages were received and 'No' indicating they were not."
+}
+```

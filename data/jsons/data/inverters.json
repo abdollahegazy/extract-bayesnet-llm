@@ -1,0 +1,176 @@
+{
+  "APhaseFailure": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "APhaseNegativeWaveFormDistortion": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "APhasePositiveWaveFormDistortion": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "AbnormalPulseVoltageWaveform": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "BPhaseFailure": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "BPhaseNegativeWaveFormDistortion": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "BPhasePositiveWaveFormDistortion": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "C1Failure": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "C1VoltageAnomaly": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "C2Failure": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "C2VoltageAnomaly": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "CPhaseFailure": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "CPhaseNegativeWaveFormDistortion": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "CPhasePositiveWaveFormDistortion": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "CapacitanceParameterWeakening": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "DCLinkFailure": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "G1PulseMissing": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "G2PulseMissing": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "G3PulseMissing": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "G4PulseMissing": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "G5PulseMissing": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "G6PulseMissing": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "T1OC": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "T2OC": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "T3OC": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "T4OC": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "T5OC": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "T6OC": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "VoltageWaveFormAsymmetry": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+```python
+{
+  "CAW": "CAW represents the cabin altitude warning, which can be 'yes' if the warning is activated due to low cabin pressure or 'no' if no warning is present.",
+  "CLPL": "CLPL stands for the cabin low pressure light, which can be 'illuminated' when low cabin pressure is detected or 'extinguished' when cabin pressure is normal.",
+  "CP": "CP represents the cabin pressure, with 'normal' indicating sufficient pressure and 'low' indicating insufficient pressure.",
+  "CPMS": "CPMS refers to the cabin pressurization mode setting, which can be 'automatic' for normal operation or 'manual' when manually controlled.",
+  "CPMSI": "CPMSI is the cabin pressurization mode setting indication, which shows 'automatic' if the mode is set to automatic or 'manual' if it is set to manual.",
+  "ECA": "ECA represents the equipment cooling airflow, with 'normal' indicating sufficient airflow and 'low' indicating reduced airflow.",
+  "ECFCBI": "ECFCBI stands for the equipment cooling fan circuit breaker indication, which can be 'on' if the circuit breaker is engaged or 'off' if it is disengaged.",
+  "ECFOL": "ECFOL represents the equipment cooling fan OFF light, which can be 'illuminated' when the fan is off or 'extinguished' when the fan is functioning normally.",
+  "ECFS": "ECFS refers to the equipment cooling fan state, which can be 'normal' if the fan is functioning correctly or 'faulted' if the fan has failed.",
+  "ECOL": "ECOL represents the equipment cooling OFF light, which can be 'illuminated' when cooling airflow is low or 'extinguished' when airflow is normal.",
+  "FP": "FP denotes the flap position, which can be 'retracted' when the flaps are not extended or 'extended' when the flaps are deployed.",
+  "FPI": "FPI is the flap position indication, which shows 'retracted' if the flaps are not extended or 'extended' if the flaps are deployed.",
+  "OMD": "OMD represents oxygen mask deployment, which can be 'yes' if the masks are deployed due to low cabin pressure or 'no' if they are not deployed.",
+  "OMDL": "OMDL stands for the oxygen mask deployment light, which can be 'illuminated' when the masks are deployed or 'extinguished' when they are not.",
+  "TC": "TC represents the takeoff configuration, which can be 'correct' if the configuration is set properly or 'wrong' if it is not.",
+  "TS": "TS refers to the trim state, which can be 'normal' if the trim is correctly set or 'abnormal' if it is not.",
+  "TSI": "TSI is the trim state indication, which shows 'normal' if the trim is correctly set or 'abnormal' if it is not."
+}
+```

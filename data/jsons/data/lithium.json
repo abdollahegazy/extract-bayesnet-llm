@@ -1,0 +1,272 @@
+{
+  "BindingFailure": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ExternalShortCircuit": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "HighTemperature": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "Impact": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ImproperOperation": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "InsufficientFireMonitoring": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "InsufficientFirefightingCapacity": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "InternalShortCircuit": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "LBESSCatchFire": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "LBESSFireAccident": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "PoorShipStability": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ShortCircuit": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "UnableToPutOutFire": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ViolentRolling": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X1": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X10": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X11": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X12": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X13": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X14": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X15": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X16": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X17": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X18": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X19": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X2": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X20": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X21": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X22": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X23": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X24": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X25": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X26": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X27": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X28": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X29": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X3": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X30": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X31": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X4": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X5": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X6": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X7": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X8": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "X9": {
+    "states": [
+      "True",
+      "False"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+```python
+{
+  "AuditorsOpinion": "AuditorsOpinion indicates whether the auditor's opinion on the firm's financial statements is qualified or adverse, with 'FALSE' representing an unqualified opinion and 'TRUE' representing a qualified or adverse opinion.",
+  "BankruptcyStatus": "BankruptcyStatus represents whether a firm has filed for bankruptcy, with 'FALSE' indicating no bankruptcy and 'TRUE' indicating bankruptcy.",
+  "CashAssets": "CashAssets measures the proportion of cash and cash equivalents relative to total assets, with 'Low' indicating a small proportion, 'Medium' indicating an average proportion, and 'High' indicating a large proportion.",
+  "FirmSize": "FirmSize represents the size of the firm based on total assets, with 'Low' indicating small firms, 'Medium' indicating medium-sized firms, and 'High' indicating large firms.",
+  "IndustryFailureRate": "IndustryFailureRate reflects the average bankruptcy rate within the firm's industry, with 'Low' indicating a low failure rate, 'Medium' indicating a moderate failure rate, and 'High' indicating a high failure rate.",
+  "MarketableSecurities": "MarketableSecurities represents the level of short-term liquid investments held by the firm, with 'Low' indicating a small amount, 'Medium' indicating a moderate amount, and 'High' indicating a large amount.",
+  "NetIncomeNegative": "NetIncomeNegative indicates whether the firm's net income has been negative for the past two years, with 'FALSE' representing positive or zero net income and 'TRUE' representing negative net income.",
+  "NetIncomeRate": "NetIncomeRate measures the rate of change in the firm's net income over time, with 'Low' indicating a decrease or slow growth, 'Medium' indicating moderate growth, and 'High' indicating rapid growth.",
+  "StockReturn": "StockReturn represents the firm's stock performance relative to the market, with 'Low' indicating poor performance, 'Medium' indicating average performance, and 'High' indicating strong performance."
+}
+```

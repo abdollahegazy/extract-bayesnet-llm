@@ -1,0 +1,21 @@
+{
+  "Disease": {
+    "states": [
+      "Healthy",
+      "Mildly",
+      "Severly"
+    ]
+  },
+  "Screening_Test": {
+    "states": [
+      "Negative",
+      "Positive"
+    ]
+  },
+  "Vaccine": {
+    "states": [
+      "No",
+      "Yes"
+    ]
+  }
+}

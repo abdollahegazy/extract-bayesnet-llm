@@ -1,0 +1,98 @@
+{
+  "C": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "F": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "FPR": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "GP": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "GRE": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "H": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "HCF": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "HOR": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "IOA": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "IRF": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "P": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "RGP": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "SBT": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "SMT": {
+    "states": [
+      "Yes",
+      "No"
+    ]
+  },
+  "T": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  },
+  "V": {
+    "states": [
+      "High",
+      "Low"
+    ]
+  }
+}

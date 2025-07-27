@@ -1,0 +1,104 @@
+{
+  "CAW": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "CLPL": {
+    "states": [
+      "illuminated",
+      "extinguished"
+    ]
+  },
+  "CP": {
+    "states": [
+      "normal",
+      "low"
+    ]
+  },
+  "CPMS": {
+    "states": [
+      "automatic",
+      "manual"
+    ]
+  },
+  "CPMSI": {
+    "states": [
+      "automatic",
+      "manual"
+    ]
+  },
+  "ECA": {
+    "states": [
+      "normal",
+      "low"
+    ]
+  },
+  "ECFCBI": {
+    "states": [
+      "on",
+      "off"
+    ]
+  },
+  "ECFOL": {
+    "states": [
+      "illuminated",
+      "extinguished"
+    ]
+  },
+  "ECFS": {
+    "states": [
+      "normal",
+      "faulted"
+    ]
+  },
+  "ECOL": {
+    "states": [
+      "illuminated",
+      "extinguished"
+    ]
+  },
+  "FP": {
+    "states": [
+      "retracted",
+      "extended"
+    ]
+  },
+  "FPI": {
+    "states": [
+      "retracted",
+      "extended"
+    ]
+  },
+  "OMD": {
+    "states": [
+      "yes",
+      "no"
+    ]
+  },
+  "OMDL": {
+    "states": [
+      "illuminated",
+      "extinguished"
+    ]
+  },
+  "TC": {
+    "states": [
+      "correct",
+      "wrong"
+    ]
+  },
+  "TS": {
+    "states": [
+      "normal",
+      "abnormal"
+    ]
+  },
+  "TSI": {
+    "states": [
+      "normal",
+      "abnormal"
+    ]
+  }
+}

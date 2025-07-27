@@ -1,0 +1,68 @@
+{
+  "AbnormalFlow": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "AirLeakageOfShaftSeal": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "GateValveFailure": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "ImpellerDamaged": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "LowSpeed": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "LowVoltage": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "MotorFault": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "PipelineFailure": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "PipelineRupture": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "Silting": {
+    "states": [
+      "T",
+      "F"
+    ]
+  },
+  "WaterPumpFailure": {
+    "states": [
+      "T",
+      "F"
+    ]
+  }
+}

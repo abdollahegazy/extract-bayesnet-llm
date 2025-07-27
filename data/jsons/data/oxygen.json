@@ -1,0 +1,188 @@
+{
+  "CorrosionCausedByTheEnvironment": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "CorrosiveEnvironment": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectInTheTankDryer": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectInTheTankPressureGauge": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectInTheTankReliabilityGauge": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInConnectingTankFastenersF1": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInConnectingTankFastenersF2": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInConnectionsAndGauges": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInInletAndOutletValvesV1": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInInletAndOutletValvesV2": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInTankEquipmentRepairs": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInTheExternalCoatingSystemOfTheTank": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInTheInspectionAndTestingProgramOfTankDevices": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "DefectsInTheTankCoating": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ExternalCorrosionOfTheTank": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "FailureInProtectiveMeasures": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "FailureInRepairsAndMaintenance": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "FailureOfConnectionsAndFasteners": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "FailureOfGauges": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "FailureToUseStandardAndUpdatedInstructions": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "HumanError": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "InadequacyOfPeopleSkills": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "InternalCorrosionOfTheTank": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "OperationalError": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "OrganizationalWeakness": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "OxygenLeakage": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "TankCorrosion": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "ValveLeakage": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "WeakEducationSystem": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "WeaknessInPurchasingTankEquipment": {
+    "states": [
+      "True",
+      "False"
+    ]
+  },
+  "WeaknessInTheInstallationOfTankEquipment": {
+    "states": [
+      "True",
+      "False"
+    ]
+  }
+}

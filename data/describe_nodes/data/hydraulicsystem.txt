@@ -1,0 +1,8 @@
+```python
+{
+  "BlueHydraulicSystem": "BlueHydraulicSystem represents the operational reliability of the blue hydraulic subsystem, where 'True' indicates that the subsystem is functioning within the acceptable parameter range, and 'False' indicates that it is operating outside the acceptable range or has failed.",
+  "GreenHydraulicSystem": "GreenHydraulicSystem represents the operational reliability of the green hydraulic subsystem, where 'True' indicates that the subsystem is functioning within the acceptable parameter range, and 'False' indicates that it is operating outside the acceptable range or has failed.",
+  "HydraulicSystem": "HydraulicSystem represents the overall operational reliability of the airplane's hydraulic system, where 'True' indicates that all subsystems are functioning within acceptable ranges, and 'False' indicates that one or more subsystems are operating outside the acceptable range or have failed.",
+  "YellowHydraulicSystem": "YellowHydraulicSystem represents the operational reliability of the yellow hydraulic subsystem, where 'True' indicates that the subsystem is functioning within the acceptable parameter range, and 'False' indicates that it is operating outside the acceptable range or has failed."
+}
+```

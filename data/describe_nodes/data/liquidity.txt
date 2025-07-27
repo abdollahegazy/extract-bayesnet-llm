@@ -1,0 +1,14 @@
+```python
+{
+  "X1": "X1 represents the liquidity ratio of the bank, which measures the proportion of liquid assets to current liabilities; 'FALSE' indicates the ratio is below the normal range, and 'TRUE' indicates it is within the normal range.",
+  "X2": "X2 represents the ratio of the bank's credits in other banks to its liquid assets, with 'FALSE' indicating the ratio is outside the acceptable range and 'TRUE' indicating it is within the acceptable range.",
+  "X3": "X3 represents the ratio of the bank's long-term deposits to short-term deposits, where 'FALSE' indicates an imbalance outside the normal range and 'TRUE' indicates a balanced ratio within the normal range.",
+  "X4": "X4 represents the ratio of the bank's credits in other banks to credits received from other banks, with 'FALSE' indicating the ratio is outside the normal range and 'TRUE' indicating it is within the normal range.",
+  "X5": "X5 represents the loan-to-deposit ratio of the bank, which measures the proportion of loans to deposits; 'FALSE' indicates the ratio exceeds the normal threshold, and 'TRUE' indicates it is within the acceptable range.",
+  "X6": "X6 represents the ratio of the bank's bonds to its total assets, with 'FALSE' indicating the ratio is outside the normal range and 'TRUE' indicating it is within the normal range.",
+  "X7": "X7 represents the ratio of the bank's volatile deposits to its total liabilities, where 'FALSE' indicates the ratio is above the acceptable threshold and 'TRUE' indicates it is within the acceptable range.",
+  "X8": "X8 represents the ratio of the bank's short-term investments to its total assets, with 'FALSE' indicating the ratio is below the normal range and 'TRUE' indicating it is within the normal range.",
+  "X9": "X9 represents the ratio of the bank's credits in the central bank to its total deposits, where 'FALSE' indicates the ratio is outside the acceptable range and 'TRUE' indicates it is within the normal range.",
+  "X10": "X10 represents the current ratio of the bank, which measures the proportion of current assets to current liabilities; 'FALSE' indicates the ratio is below the critical threshold of 1, and 'TRUE' indicates it is above the threshold."
+}
+```

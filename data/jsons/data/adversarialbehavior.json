@@ -1,0 +1,26 @@
+{
+  "FTPBasedBufferOverflow": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "RemoteAdversary": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "RemoteBufferOverflowOnSSHDaemon": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  },
+  "RootAccessFTPServer": {
+    "states": [
+      "TRUE",
+      "FALSE"
+    ]
+  }
+}
