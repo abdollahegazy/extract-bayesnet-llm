@@ -1,6 +1,6 @@
 # extract-bayesnet-llm
 
-Recreation of the paper:  
+Partial recreation of the paper:  
 **"Extracting Probabilistic Knowledge from Large Language Models for Bayesian Network Parameterization"**  
 _Nafar et al._ — [arXiv:2505.15918](https://arxiv.org/abs/2505.15918)
 
