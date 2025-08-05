@@ -11,9 +11,9 @@ def load_data_from_file(filepath):
 
 def create_bn_kl_boxplot():
     data_sources = [
-        ("./MLE/TEMP_1000.txt", "MLE-1000"),
-        ("./MLE/TEMP_300.txt", "MLE-300"), 
-        ("./MLE/TEMP_100.txt", "MLE-100"),
+        ("./MLE/1000.txt", "MLE-1000"),
+        ("./MLE/300.txt", "MLE-300"), 
+        ("./MLE/100.txt", "MLE-100"),
         
         # EPK data
         ("./EPK/4omini.txt", "GPT-4o-mini (EPK)"),
@@ -38,10 +38,7 @@ def create_bn_kl_boxplot():
         median.set_color('black')
         median.set_linewidth(0.75)    
 
-    colors = ['#1f77b4', '#1f77b4', '#1f77b4', '#ff7f0e', '#9467bd', 
-              '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf',
-              '#aec7e8', '#ffbb78', '#98df8a', '#ff9896', '#c5b0d5',
-              '#c49c94', '#f7b6d3', '#c7c7c7', '#dbdb8d', '#9edae5']
+    colors = ['#1f77b4', '#1f77b4', '#1f77b4', '#3b923a']
     
     for patch, color in zip(box_plot['boxes'], colors[:len(box_plot['boxes'])]):
         patch.set_facecolor(color)
@@ -71,16 +68,5 @@ def create_bn_kl_boxplot():
     plt.show()
 
 if __name__ == "__main__":
-    # Create the boxplot
+
     create_bn_kl_boxplot()
-    
-    # Optional: Print directory structure to help debug file paths
-    print("\nCurrent directory structure:")
-    for root, dirs, files in os.walk('.'):
-        level = root.replace('.', '').count(os.sep)
-        indent = ' ' * 2 * level
-        print(f"{indent}{os.path.basename(root)}/")
-        subindent = ' ' * 2 * (level + 1)
-        for file in files:
-            if file.endswith('.txt'):
-                print(f"{subindent}{file}")
