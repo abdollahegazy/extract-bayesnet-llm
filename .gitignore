@@ -8,3 +8,4 @@
 *.bif
 *.json
 *.txt
+.DS_Store
