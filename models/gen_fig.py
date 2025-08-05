@@ -57,15 +57,15 @@ def create_bn_kl_boxplot():
     
     plt.tight_layout()
     
-    print("\nData Statistics:")
-    for i, (data, label) in enumerate(zip(all_data, labels)):
-        median_val = np.median(data)
-        mean_val = np.mean(data)
-        std_val = np.std(data)
-        print(f"{label}: N={len(data)}, Median={median_val:.3f}, Mean={mean_val:.3f}, Std={std_val:.3f}")
+    # print("\nData Statistics:")
+    # for i, (data, label) in enumerate(zip(all_data, labels)):
+    #     median_val = np.median(data)
+    #     mean_val = np.mean(data)
+    #     std_val = np.std(data)
+    #     print(f"{label}: N={len(data)}, Median={median_val:.3f}, Mean={mean_val:.3f}, Std={std_val:.3f}")
     
     plt.savefig('bn_kl_divergence_boxplot.png', dpi=300, bbox_inches='tight')
-    plt.show()
+    # plt.show()
 
 if __name__ == "__main__":
 
