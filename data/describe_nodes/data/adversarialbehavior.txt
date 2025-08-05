@@ -1,8 +1,0 @@
-```python
-{
-  "FTPBasedBufferOverflow": "FTPBasedBufferOverflow represents a vulnerability exploit where a buffer overflow attack is conducted on an FTP server, and it can assume values 'TRUE' if the attack is successful and 'FALSE' if it is not.",
-  "RemoteAdversary": "RemoteAdversary indicates the presence of an external attacker attempting to compromise the system, and it can assume values 'TRUE' if the adversary is active and 'FALSE' if not.",
-  "RemoteBufferOverflowOnSSHDaemon": "RemoteBufferOverflowOnSSHDaemon represents a buffer overflow attack targeting the SSH daemon remotely, and it can assume values 'TRUE' if the attack is successful and 'FALSE' if it is not.",
-  "RootAccessFTPServer": "RootAccessFTPServer signifies whether root-level access has been gained on the FTP server, and it can assume values 'TRUE' if root access is achieved and 'FALSE' if it is not."
-}
-```

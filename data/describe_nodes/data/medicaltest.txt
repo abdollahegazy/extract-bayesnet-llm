@@ -1,7 +1,0 @@
-```python
-{
-  "Disease": "Disease represents the presence or absence of a specific medical condition, with 'no' indicating the individual does not have the disease and 'yes' indicating the individual has the disease.",
-  "Test1": "Test1 represents the result of the first medical test, with 'no' indicating a negative test result and 'yes' indicating a positive test result.",
-  "Test2": "Test2 represents the result of the second medical test, with 'no' indicating a negative test result and 'yes' indicating a positive test result."
-}
-```

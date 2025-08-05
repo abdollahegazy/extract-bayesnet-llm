@@ -1,7 +1,0 @@
-```python
-{
-  "Disease": "Disease represents the health condition of the newborn, and it can assume values 'Healthy' for no disease, 'Mildly' for mild contraction of the disease, and 'Severly' for severe contraction of the disease.",
-  "Screening_Test": "Screening_Test represents the result of a medical screening test for the newborn, with 'Negative' indicating no risk detected and 'Positive' indicating a risk of disease.",
-  "Vaccine": "Vaccine represents the decision of the parents regarding vaccination for the newborn, with 'No' indicating no vaccination and 'Yes' indicating that the vaccine is administered."
-}
-```

@@ -1,8 +1,0 @@
-```python
-{
-  "AverageDistance": "AverageDistance represents the distance of a building to the nearest historical blue concrete manufacturing plant, with '0-300' indicating close proximity, '300-600' representing a moderate distance, and '>600' denoting a far distance.",
-  "Basement": "Basement indicates whether a building has at least one basement, with 'False' meaning no basement and 'True' meaning the presence of at least one basement.",
-  "BlueConcrete": "BlueConcrete represents whether blue concrete, a hazardous material associated with increased radon levels, is detected in a building, with 'False' indicating no detection and 'True' indicating its presence.",
-  "ConstructionYear": "ConstructionYear refers to the period during which a building was constructed, with '1930-1955', '1955-1960', '1960-1968', '1968-1975', and '1975-1980' representing specific time intervals relevant to the historical use of blue concrete."
-}
-```

@@ -1,7 +1,0 @@
-```python
-{
-  "AverageDistance": "AverageDistance represents the distance of a building to historical blue concrete manufacturing plants, with values '0-300' indicating close proximity, '300-600' indicating moderate distance, and '>600' indicating far distance.",
-  "BlueConcrete": "BlueConcrete indicates whether blue concrete, a hazardous radioactive material, is present in a building, with 'False' meaning it is not detected and 'True' meaning it is detected.",
-  "FloorArea": "FloorArea represents the total floor area of a building, with values '0-150' for small buildings, '150-220' for medium-small buildings, '220-360' for medium buildings, '360-1500' for large buildings, and '>1500' for very large buildings."
-}
-```
